@@ -45,8 +45,8 @@ Las imágenes que muestran el funcionamiento del sistema están en la carpeta `i
 
 ## 👥 Autores
 
-- 👨‍💻 Fabian Cardozo 
-- 👨‍💻 Lautaro Cejas
+- 👨‍💻 Fabian Ignacio Cardozo 
+- 👨‍💻 Lautaro Ariel Cejas
 
 📚 Curso: Arquitectura de Sistemas Operativos  
 🎓 Profesor: Diego Lobos  
