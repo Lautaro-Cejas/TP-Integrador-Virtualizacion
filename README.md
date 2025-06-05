@@ -39,13 +39,13 @@ Las imágenes que muestran el funcionamiento del sistema están en la carpeta `i
 
 ## 📄 Informe
 
-📍 El informe técnico se encuentra en `docs/Trabajo Integrador - Virtualización - Fabian Cruz, Lautaro Cejas - COM 11.pdf` e incluye detalles de la implementación, decisiones de diseño y resultados obtenidos.
+📍 El informe técnico se encuentra en `docs/Trabajo Integrador - Virtualización - Fabian Cardozo, Lautaro Cejas - COM 11.pdf` e incluye detalles de la implementación, decisiones de diseño y resultados obtenidos.
 
 ---
 
 ## 👥 Autores
 
-- 👨‍💻 Fabian Cruz  
+- 👨‍💻 Fabian Cardozo 
 - 👨‍💻 Lautaro Cejas
 
 📚 Curso: Arquitectura de Sistemas Operativos  
